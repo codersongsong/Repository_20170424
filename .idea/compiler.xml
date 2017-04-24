@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="grpc-client" />
+        <module name="grpc-common" />
+        <module name="grpc-registry-api" />
+        <module name="grpc-registry-zookeeper" />
+        <module name="grpc-sample-api" />
+        <module name="grpc-sample-client" />
+        <module name="grpc-sample-server" />
+        <module name="grpc-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="grpc" target="1.6" />
+      <module name="grpc-client" target="1.6" />
+      <module name="grpc-common" target="1.6" />
+      <module name="grpc-registry" target="1.6" />
+      <module name="grpc-registry-api" target="1.6" />
+      <module name="grpc-registry-zookeeper" target="1.6" />
+      <module name="grpc-sample" target="1.6" />
+      <module name="grpc-sample-api" target="1.6" />
+      <module name="grpc-sample-client" target="1.6" />
+      <module name="grpc-sample-server" target="1.6" />
+      <module name="grpc-server" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

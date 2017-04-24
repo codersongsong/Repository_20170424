@@ -1,19 +1,6 @@
 # Repository_20170424
 my first repository
-test branch  -----------------
-sdfasdfasdfasdf
 
-as
-df
-as
-d
-f
-as
-df
+测试心得：
 
-asdf
-a
-sd
-f
-asd
-f
+1、

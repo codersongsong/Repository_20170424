@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grpc.iml" filepath="$PROJECT_DIR$/grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-client/grpc-client.iml" filepath="$PROJECT_DIR$/grpc-client/grpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-common/grpc-common.iml" filepath="$PROJECT_DIR$/grpc-common/grpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-registry/grpc-registry.iml" filepath="$PROJECT_DIR$/grpc-registry/grpc-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-registry/grpc-registry-api/grpc-registry-api.iml" filepath="$PROJECT_DIR$/grpc-registry/grpc-registry-api/grpc-registry-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-registry/grpc-registry-zookeeper/grpc-registry-zookeeper.iml" filepath="$PROJECT_DIR$/grpc-registry/grpc-registry-zookeeper/grpc-registry-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-sample/grpc-sample.iml" filepath="$PROJECT_DIR$/grpc-sample/grpc-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-sample/grpc-sample-api/grpc-sample-api.iml" filepath="$PROJECT_DIR$/grpc-sample/grpc-sample-api/grpc-sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-sample/grpc-sample-client/grpc-sample-client.iml" filepath="$PROJECT_DIR$/grpc-sample/grpc-sample-client/grpc-sample-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-sample/grpc-sample-server/grpc-sample-server.iml" filepath="$PROJECT_DIR$/grpc-sample/grpc-sample-server/grpc-sample-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-server/grpc-server.iml" filepath="$PROJECT_DIR$/grpc-server/grpc-server.iml" />
+    </modules>
+  </component>
+</project>
